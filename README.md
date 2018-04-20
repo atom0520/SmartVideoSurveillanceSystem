@@ -8,7 +8,7 @@ A Smart Video Surveillance System that can analyze the videos taken from live ca
 ## System Design
 
 <p align="center">
-  <img height="432" src="imgs/system_design.png">
+  <img height="432" src="Images/system_design.png">
 </p>
 
 #### How does the system work?
@@ -52,7 +52,7 @@ https://drive.google.com/drive/folders/0B537tmZl1HF-UjFGNnc5Sl85Nms?usp=sharing<
 5. Open the Smart Alert App on your mobile phone. Click the <b>Settings Button</b> to open the <b>Settings Panel</b>. Enter your server ip and server port in the <b>Server IP Input Field</b> and <b>Server Port Input Field</b> and click the <b>Confirm Button</b>.
 
 <p align="center">
-  <img height="512" src="imgs/app_settings_panel.png">
+  <img height="512" src="Images/app_settings_panel.png">
 </p>
 
 6. Run the <b>"FallDetection.m"</b> MATLAB code to start the Video Detector.<br>
@@ -69,10 +69,10 @@ https://drive.google.com/drive/folders/0B537tmZl1HF-UjFGNnc5Sl85Nms?usp=sharing<
 
 Then, when the Video Detector detects a fall event in the video, hopefully the Smart Alert App on your mobile phone will soon receive an alert notification, and you can check out the detection information as well as the detected frames in the app.
 <p align="center">
-  <img height="480" src="imgs/video_fall_detector.png">
+  <img height="480" src="Images/video_fall_detector.png">
 </p>
 <p align="center">
-  <img src="imgs/alert_notification.png">
+  <img src="Images/alert_notification.png">
 </p>
 <br>
 
