@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://smartvideosurveillancesystem.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">624895280708</string>
+  <string name="google_storage_bucket" translatable="false">smartvideosurveillancesystem.appspot.com</string>
+  <string name="project_id" translatable="false">smartvideosurveillancesystem</string>
+  <string name="google_api_key" translatable="false">AIzaSyBt0clZF4cf4zOtWcMYXqvxIpXC2gmUL3U</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBt0clZF4cf4zOtWcMYXqvxIpXC2gmUL3U</string>
+  <string name="google_app_id" translatable="false">1:624895280708:android:d7acf67abf30d9ed</string>
+  <string name="default_web_client_id" translatable="false">624895280708-7jn539n60u5gsogsb79m0oafjc1j84ke.apps.googleusercontent.com</string>
+</resources>

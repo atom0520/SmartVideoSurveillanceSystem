@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>624895280708-8pu50u1vu9qcc8al5cmcouk66t2rdgua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624895280708-8pu50u1vu9qcc8al5cmcouk66t2rdgua</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2lzUmwEg4qhy7tSPgmCF_vV6W6xjbZ9U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624895280708</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.atom.smartalertapp</string>
+	<key>PROJECT_ID</key>
+	<string>smartvideosurveillancesystem</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartvideosurveillancesystem.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624895280708:ios:d7acf67abf30d9ed</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartvideosurveillancesystem.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624895280708",
+    "firebase_url": "https://smartvideosurveillancesystem.firebaseio.com",
+    "project_id": "smartvideosurveillancesystem",
+    "storage_bucket": "smartvideosurveillancesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624895280708:android:d7acf67abf30d9ed",
+        "android_client_info": {
+          "package_name": "com.atom.smartalertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624895280708-7jn539n60u5gsogsb79m0oafjc1j84ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0clZF4cf4zOtWcMYXqvxIpXC2gmUL3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
